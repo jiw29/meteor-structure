@@ -2,7 +2,6 @@
 
 var fs = require('fs');
 var path = require('path');
-var mkdirp = require('mkdirp');
 (function() {
 
   var Paths = ['public', 'private', 'tests', 'client/compatibility', 'server/lib', 'client/lib'];

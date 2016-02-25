@@ -1,6 +1,6 @@
 {
   "name": "meteor-structure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The command line of generate meteor offical recommand Structuring of app.",
   "main": "index.js",
   "bin": {
@@ -23,7 +23,5 @@
     "url": "https://github.com/qintengfei/meteor-structure/issues"
   },
   "homepage": "https://github.com/qintengfei/meteor-structure#readme",
-  "dependencies": {
-    "mkdirp": "^0.5.1"
-  }
+  "dependencies": {}
 }
