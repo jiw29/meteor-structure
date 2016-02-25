@@ -1,0 +1,29 @@
+{
+  "name": "meteor-structure",
+  "version": "1.0.0",
+  "description": "The command line of generate meteor offical recommand Structuring of app.",
+  "main": "index.js",
+  "bin": {
+    "ms": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qintengfei/meteor-structure.git"
+  },
+  "keywords": [
+    "meteor",
+    "structure"
+  ],
+  "author": "devqin@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qintengfei/meteor-structure/issues"
+  },
+  "homepage": "https://github.com/qintengfei/meteor-structure#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
